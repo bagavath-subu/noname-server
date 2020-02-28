@@ -1,7 +1,7 @@
 colorama==0.4.3
 fastai==1.0.60
 fastprogress==0.2.2
-Flask==0.12.2
+Flask==1.0
 Flask-BabelEx==0.9.3
 Flask-Compress==1.4.0
 Flask-Cors==3.0.8
