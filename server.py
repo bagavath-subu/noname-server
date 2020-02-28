@@ -64,5 +64,10 @@ def predict():
     return jsonify(predict_single())
 
 
+@app.route('/check', methods=['GET'])
+def check():
+    return "Working"
+
+
 if __name__ == '__main__':
     app.run()
